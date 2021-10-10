@@ -23,6 +23,7 @@ const Wrapper = styled.div`
     cursor: pointer;
     span {
         background: linear-gradient(90deg, #6F019C 0%, #C6017E 135.12%);
+        background-clip: text;
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
     }

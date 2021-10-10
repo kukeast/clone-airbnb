@@ -8,6 +8,7 @@ function App() {
             <Covid19/>
             <Header/>
             <MainBanner/>
+            <div style={{height: "1000px"}}/>
         </>
     )
 }
